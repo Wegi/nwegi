@@ -1,0 +1,9 @@
+{
+  "name": "nwegi",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 1000,
+    "height": 600
+  }
+}
